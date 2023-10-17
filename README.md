@@ -1,8 +1,7 @@
 # React Router 튜토리얼 실습하기
 
 <div align="center">
-  <img src='https://github.com/biyamn/React-Router-Tutorial/assets/101965666/66c36437-f99d-41c9-95bf-ae4619e99a26
-' width="60%"/>
+  <img src='https://github.com/biyamn/React-Router-Tutorial/assets/101965666/66c36437-f99d-41c9-95bf-ae4619e99a26' width="60%"/>
 
 **배포 링크**: https://react-router-tutorial-biyam.vercel.app
 **학습한 문서**: https://reactrouter.com/en/main/start/tutorial
